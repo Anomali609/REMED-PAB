@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "952932707858",
+    "project_id": "remidi-pab-609",
+    "storage_bucket": "remidi-pab-609.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952932707858:android:5f99059448d8b9b7faf2cb",
+        "android_client_info": {
+          "package_name": "com.example.remidi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGBnC2C5zXN8VQuH9OdV-44lhE_uvSIN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
